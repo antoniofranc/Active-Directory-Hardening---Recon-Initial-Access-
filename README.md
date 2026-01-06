@@ -1,4 +1,4 @@
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/fc6e9dbc-bbad-4e86-9531-cd51e7e44c8f" />
+<img width="420" height="450" alt="image" src="https://github.com/user-attachments/assets/fc6e9dbc-bbad-4e86-9531-cd51e7e44c8f" />
 
 # Active Directory Hardening – Recon & Initial Access
 
