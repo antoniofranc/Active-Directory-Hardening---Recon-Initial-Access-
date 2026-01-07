@@ -75,6 +75,8 @@ Impact:
 ---
 
 ### Risk Level 3: "Anonymous Logon" Added (CRITICAL Risk) 🚨
+<img width="389" height="442" alt="image" src="https://github.com/user-attachments/assets/f950db0e-6b56-4dab-a449-a38418833dda" />
+
 **Membership:** Authenticated Users + Everyone + **Anonymous Logon**
 ```
 CRITICAL IMPACT:
